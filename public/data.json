@@ -1,0 +1,1142 @@
+[
+    {
+        "title": "Machine Learning",
+        "subtext": "AI exists thanks to this",
+        "onclick": "showModal('machineLearning')"
+    },
+    {
+        "title": "Code Smell",
+        "subtext": "Indicators that code might need improvement.",
+        "onclick": "showModal('codeSmell')"
+    },
+    {
+        "title": "Serverless Computing",
+        "subtext": "Cloud computing without managing servers.",
+        "onclick": "showModal('serverlessComputing')"
+    },
+    {
+        "title": "Web Flow",
+        "subtext": "The sequence of user steps on a website.",
+        "onclick": "showModal('webFlow')"
+    },
+    {
+        "title": "Web Hooks",
+        "subtext": "Automated messages between apps.",
+        "onclick": "showModal('webHooks')"
+    },
+    {
+        "title": "LLMs",
+        "subtext": "AI systems for understanding and generating text.",
+        "onclick": "showModal('llms')"
+    },
+    {
+        "title": "Open Source",
+        "subtext": "Software with publicly accessible source code.",
+        "onclick": "showModal('openSource')"
+    },
+    {
+        "title": "Web Scraping",
+        "subtext": "Automatically collecting data from websites.",
+        "onclick": "showModal('webScraping')"
+    },
+    {
+        "title": "Front End",
+        "subtext": "The visual and interactive parts of a website.",
+        "onclick": "showModal('frontEnd')"
+    },
+    {
+        "title": "Full Stack",
+        "subtext": "Development of both front end and back end.",
+        "onclick": "showModal('fullStack')"
+    },
+    {
+        "title": "Functions",
+        "subtext": "Reusable blocks of code performing specific tasks.",
+        "onclick": "showModal('functions')"
+    },
+    {
+        "title": "Arguments",
+        "subtext": "Values passed to functions to influence their behavior.",
+        "onclick": "showModal('arguments')"
+    },
+    {
+        "title": "Dictionary",
+        "subtext": "A collection of key-value pairs in programming.",
+        "onclick": "showModal('dictionary')"
+    },
+    {
+        "title": "Tuple",
+        "subtext": "An ordered, unchangeable collection of items.",
+        "onclick": "showModal('tuple')"
+    },
+    {
+        "title": "List",
+        "subtext": "An ordered, changeable collection of items.",
+        "onclick": "showModal('list')"
+    },
+    {
+        "title": "Boolean",
+        "subtext": "A data type with true or false values.",
+        "onclick": "showModal('boolean')"
+    },
+    {
+        "title": "String",
+        "subtext": "A sequence of characters representing text.",
+        "onclick": "showModal('string')"
+    },
+    {
+        "title": "Floats",
+        "subtext": "Numbers with decimal points for precision.",
+        "onclick": "showModal('floats')"
+    },
+    {
+        "title": "Double",
+        "subtext": "More precise and larger decimal numbers.",
+        "onclick": "showModal('double')"
+    },
+    {
+        "title": "Data Types",
+        "subtext": "Categories defining the kind of data variables can hold.",
+        "onclick": "showModal('dataTypes')"
+    },
+    {
+        "title": "Threads",
+        "subtext": "Mini-programs running concurrently within a larger program.",
+        "onclick": "showModal('threads')"
+    },
+    {
+        "title": "Classes",
+        "subtext": "Blueprints for creating objects with defined properties and behaviors.",
+        "onclick": "showModal('classes')"
+    },
+    {
+        "title": "Objects",
+        "subtext": "Instances of classes with specific attributes and methods.",
+        "onclick": "showModal('objects')"
+    },
+    {
+        "title": "Inheritance",
+        "subtext": "Creating new classes from existing ones, inheriting their properties and behaviors.",
+        "onclick": "showModal('inheritance')"
+    },
+    {
+        "title": "Syntax",
+        "subtext": "Rules defining the structure and format of code.",
+        "onclick": "showModal('syntax')"
+    },
+    {
+        "title": "IDE",
+        "subtext": "Integrated Development Environment for coding and debugging.",
+        "onclick": "showModal('ide')"
+    },
+    {
+        "title": "Debugger",
+        "subtext": "Tool for finding and fixing code errors",
+        "onclick": "showModal('debugger')"
+    },
+    {
+        "title": "Deployment",
+        "subtext": "Making applications available for use",
+        "onclick": "showModal('deployment')"
+    },
+    {
+        "title": "Continuous Deployment",
+        "subtext": "Automatic deployment of code changes",
+        "onclick": "showModal('continuousDeployment')"
+    },
+    {
+        "title": "Deployment Pipeline",
+        "subtext": "Automated process for software changes",
+        "onclick": "showModal('deploymentPipeline')"
+    },
+    {
+        "title": "Data Validation",
+        "subtext": "Ensuring data accuracy and completeness",
+        "onclick": "showModal('dataValidation')"
+    },
+    {
+        "title": "Data Serialization",
+        "subtext": "Converting data for storage or transmission",
+        "onclick": "showModal('dataSerialization')"
+    },
+    {
+        "title": "Mocking",
+        "subtext": "Creating fake objects for testing",
+        "onclick": "showModal('mocking')"
+    },
+    {
+        "title": "Authentication",
+        "subtext": "Verifying user identity",
+        "onclick": "showModal('authentication')"
+    },
+    {
+        "title": "Authorization",
+        "subtext": "Determining user permissions",
+        "onclick": "showModal('authorization')"
+    },
+    {
+        "title": "Prototypes (Software Development)",
+        "subtext": "Early models of software for testing",
+        "onclick": "showModal('prototypes')"
+    },
+    {
+        "title": "Monolithic Architecture",
+        "subtext": "Integrated large system design",
+        "onclick": "showModal('monolithicArchitecture')"
+    },
+    {
+        "title": "GitHub",
+        "subtext": "Platform for code hosting and collaboration",
+        "onclick": "showModal('github')"
+    },
+    {
+        "title": "ORM (Object-Relational Mapping)",
+        "subtext": "Mapping database tables to objects",
+        "onclick": "showModal('orm')"
+    },
+    {
+        "title": "Caching",
+        "subtext": "Storing data for quick access",
+        "onclick": "showModal('caching')"
+    },
+    {
+        "title": "Deep Learning",
+        "subtext": "A subset of machine learning",
+        "onclick": "showModal('deepLearning')"
+    },
+    {
+        "title": "Artificial Intelligence",
+        "subtext": "A frenemy",
+        "onclick": "showModal('artificialIntelligence')"
+    },
+    {
+        "title": "Cybersecurity",
+        "subtext": "Staying secured in a a world of hackers",
+        "onclick": "showModal('cybersecurity')"
+    },
+    {
+        "title": "Epochs",
+        "subtext": "Training rounds in Machine Learning",
+        "onclick": "showModal('epochs')"
+    },
+    {
+        "title": "APIs",
+        "subtext": "Application Programming Interfaces",
+        "onclick": "showModal('apis')"
+    },
+    {
+        "title": "Cloud Computing",
+        "subtext": "It's always fun on the clouds, until it starts \"leaking\"",
+        "onclick": "showModal('cloudComputing')"
+    },
+    {
+        "title": "Data Science",
+        "subtext": "Science of converting information to Data",
+        "onclick": "showModal('dataScience')"
+    },
+    {
+        "title": "Quantum Computing",
+        "subtext": "Sheldon Cooper's gonna love this",
+        "onclick": "showModal('quantumComputing')"
+    },
+    {
+        "title": "Internet of Things",
+        "subtext": "A Network of things",
+        "onclick": "showModal('internetOfThings')"
+    },
+    {
+        "title": "Blockchain",
+        "subtext": "A chain of transactions",
+        "onclick": "showModal('blockchain')"
+    },
+    {
+        "title": "ReactJS",
+        "subtext": "A popular JS library for building user-interfaces",
+        "onclick": "showModal('reactJS')"
+    },
+    {
+        "title": "Docker",
+        "subtext": "The most popular Container tool",
+        "onclick": "showModal('docker')"
+    },
+    {
+        "title": "The __init__ Function",
+        "subtext": "A special method in Python Programming Language",
+        "onclick": "showModal('initFunction')"
+    },
+    {
+        "title": "Three-Sigma Rule",
+        "subtext": "A rule of thumb in data science",
+        "onclick": "showModal('threeSigmaRule')"
+    },
+    {
+        "title": "Recursion",
+        "subtext": "A programming technique",
+        "onclick": "showModal('recursion')"
+    },
+    {
+        "title": "Iteration",
+        "subtext": "A programming technique",
+        "onclick": "showModal('iteration ')"
+    },
+    {
+        "title": "Version Control",
+        "subtext": "Recording every change",
+        "onclick": "showModal('versionControl')"
+    },
+    {
+        "title": "Git",
+        "subtext": "The most popular version control system",
+        "onclick": "showModal('git')"
+    },
+    {
+        "title": "Microservices",
+        "subtext": "Independent services working together",
+        "onclick": "showModal('microservices')"
+    },
+    {
+        "title": "RESTful API",
+        "subtext": "API using standard HTTP methods",
+        "onclick": "showModal('restfulAPI')"
+    },
+    {
+        "title": "GraphQL",
+        "subtext": "Query language for APIs",
+        "onclick": "showModal('graphql')"
+    },
+    {
+        "title": "Containerization",
+        "subtext": "Packaging applications for consistent deployment",
+        "onclick": "showModal('containerization')"
+    },
+    {
+        "title": "Kubernetes",
+        "subtext": "Platform for automating container management",
+        "onclick": "showModal('kubernetes')"
+    },
+    {
+        "title": "Branching",
+        "subtext": "Creating separate code versions",
+        "onclick": "showModal('branching')"
+    },
+    {
+        "title": "Merging",
+        "subtext": "Combining changes from branches",
+        "onclick": "showModal('merging')"
+    },
+    {
+        "title": "Pull Requests (PR)",
+        "subtext": "Proposing and reviewing code changes",
+        "onclick": "showModal('pullRequests')"
+    },
+    {
+        "title": "Code Review",
+        "subtext": "Checking code for quality and improvement",
+        "onclick": "showModal('codeReview')"
+    },
+    {
+        "title": "Refactoring",
+        "subtext": "Improving code structure without changing behavior",
+        "onclick": "showModal('refactoring')"
+    },
+    {
+        "title": "Technical Debt",
+        "subtext": "Extra work due to past shortcuts",
+        "onclick": "showModal('technicalDebt')"
+    },
+    {
+        "title": "Design Patterns",
+        "subtext": "Standard solutions to common design problems",
+        "onclick": "showModal('designPatterns')"
+    },
+    {
+        "title": "SOLID Principles",
+        "subtext": "Guidelines for better software design",
+        "onclick": "showModal('solidPrinciples')"
+    },
+    {
+        "title": "KISS Principle",
+        "subtext": "Keep it simple to avoid complexity",
+        "onclick": "showModal('kissPrinciple')"
+    },
+    {
+        "title": "DRY Principle",
+        "subtext": "Avoid code repetition",
+        "onclick": "showModal('dryPrinciple')"
+    },
+    {
+        "title": "Agile",
+        "subtext": "A methology in Software Development",
+        "onclick": "showModal('agile')"
+    },
+    {
+        "title": "Scrum",
+        "subtext": "A framework within the Agile methodology",
+        "onclick": "showModal('scrum')"
+    },
+    {
+        "title": "Kanban",
+        "subtext": "A visual workflow management method",
+        "onclick": "showModal('kanban')"
+    },
+    {
+        "title": "HTML",
+        "subtext": "HyperText Markup Language",
+        "onclick": "showModal('html')"
+    },
+    {
+        "title": "CSS",
+        "subtext": "Cascading Style Sheets",
+        "onclick": "showModal('css')"
+    },
+    {
+        "title": "Java",
+        "subtext": "A high-level programming-language",
+        "onclick": "showModal('java')"
+    },
+    {
+        "title": "C#",
+        "subtext": "A modern, OOP language from Microsoft",
+        "onclick": "showModal('C#')"
+    },
+    {
+        "title": "Ruby",
+        "subtext": "Another simple, OOP language",
+        "onclick": "showModal('ruby')"
+    },
+    {
+        "title": "Swift",
+        "subtext": "A programming language from Apple",
+        "onclick": "showModal('swift')"
+    },
+    {
+        "title": "Typescript",
+        "subtext": "A superset of JavaScript",
+        "onclick": "showModal('typescript')"
+    },
+    {
+        "title": "Kotlin",
+        "subtext": "A statically-typed programming language by JetBrains",
+        "onclick": "showModal('kotlin')"
+    },
+    {
+        "title": "Bash",
+        "subtext": "A unix shell and command language",
+        "onclick": "showModal('bash')"
+    },
+    {
+        "title": "Ruby on Rails",
+        "subtext": "A web application framework written in Ruby",
+        "onclick": "showModal('rubyOnRails')"
+    },
+    {
+        "title": "Angular",
+        "subtext": "A TypeScript-based web application framework",
+        "onclick": "showModal('angular')"
+    },
+    {
+        "title": "VueJS",
+        "subtext": "A aggressive progressive JavaScript framework",
+        "onclick": "showModal('vueJS')"
+    },
+    {
+        "title": "Flutter",
+        "subtext": "An UI toolkit from Google",
+        "onclick": "showModal('flutter')"
+    },
+    {
+        "title": "SwiftUI",
+        "subtext": "Another framework from Apple",
+        "onclick": "showModal('swiftUI')"
+    },
+    {
+        "title": "Data Structure",
+        "subtext": "A way of oragnzing and storing data",
+        "onclick": "showModal('dataStructure')"
+    },
+    {
+        "title": "Big O Notation",
+        "subtext": "A term used to explain... algorithms?",
+        "onclick": "showModal('bigO')"
+    },
+    {
+        "title": "Recursion Depth",
+        "subtext": "Used to elaborate on recusrion method",
+        "onclick": "showModal('recursionDepth')"
+    },
+    {
+        "title": "Debugging",
+        "subtext": "An interesting process that makes programmers yell \"Just Why!?\"",
+        "onclick": "showModal('debugging')"
+    },
+    {
+        "title": "Testing",
+        "subtext": "The ultimate fear of developers",
+        "onclick": "showModal('testing')"
+    },
+    {
+        "title": "Unit test",
+        "subtext": "A type of testing",
+        "onclick": "showModal('unitTest')"
+    },
+    {
+        "title": "Integration Test",
+        "subtext": "Another type of testing",
+        "onclick": "showModal('integrationTest')"
+    },
+    {
+        "title": "End-to-End Test",
+        "subtext": "Another type of testing",
+        "onclick": "showModal('endToEndTest')"
+    },
+    {
+        "title": "Performence Test",
+        "subtext": "A type of testing focusing on applcation performence",
+        "onclick": "showModal('performanceTest')"
+    },
+    {
+        "title": "Load Test",
+        "subtext": "A type of performance testing",
+        "onclick": "showModal('loadTest')"
+    },
+    {
+        "title": "Stress Test",
+        "subtext": "A type of performance testing under pressure",
+        "onclick": "showModal('stressTest')"
+    },
+    {
+        "title": "Security Test",
+        "subtext": "A test against hacking and whatnot",
+        "onclick": "showModal('securityTest')"
+    },
+    {
+        "title": "Usability Test",
+        "subtext": "A test that ensures that application is user-friendly",
+        "onclick": "showModal('usabilityTest')"
+    },
+    {
+        "title": "User-Acceptance Test (UAT)",
+        "subtext": "Final user testing phase",
+        "onclick": "showModal('uat')"
+    },
+    {
+        "title": "Test-Driven Development",
+        "subtext": "Or TDD, a software development approach",
+        "onclick": "showModal('testDrivenDevelopment')"
+    },
+    {
+        "title": "Continuous Integration (CI)",
+        "subtext": "A software development practice",
+        "onclick": "showModal('continuousIntegration')"
+    },
+    {
+        "title": "Continuous Delivery (CD)",
+        "subtext": "A software development practice often implemented with CI",
+        "onclick": "showModal('continuousDelivery')"
+    },
+    {
+        "title": "DevOps",
+        "subtext": "A set of practices that combine Dev and Ops",
+        "onclick": "showModal('devOps')"
+    },
+    {
+        "title": "SQL",
+        "subtext": "A relational database management system",
+        "onclick": "showModal('sql')"
+    },
+    {
+        "title": "NoSQL",
+        "subtext": "A non-relational database management system",
+        "onclick": "showModal('nosql')"
+    },
+    {
+        "title": "Logistic Regression",
+        "subtext": "Predicts probabilities for binary outcomes.",
+        "onclick": "showModal('logisticRegression')"
+    },
+    {
+        "title": "K-Means Clustering",
+        "subtext": "Groups data into clusters based on similarity.",
+        "onclick": "showModal('kMeansClustering')"
+    },
+    {
+        "title": "Decision Trees",
+        "subtext": "Uses a tree-like model of decisions and their possible consequences.",
+        "onclick": "showModal('decisionTrees')"
+    },
+    {
+        "title": "Random Forest",
+        "subtext": "Combines multiple decision trees to improve accuracy.",
+        "onclick": "showModal('randomForest')"
+    },
+    {
+        "title": "Support Vector Machines",
+        "subtext": "Finds the best boundary between classes in data.",
+        "onclick": "showModal('supportVectorMachines')"
+    },
+    {
+        "title": "Gradient Descent",
+        "subtext": "Optimizes model parameters by minimizing errors.",
+        "onclick": "showModal('gradientDescent')"
+    },
+    {
+        "title": "Neural Networks",
+        "subtext": "Mimics the human brain to recognize patterns and make predictions.",
+        "onclick": "showModal('neuralNetworks')"
+    },
+    {
+        "title": "gRPC",
+        "subtext": "A high-performance framework for service communication",
+        "onclick": "showModal('gRPC')"
+    },
+    {
+        "title": "Dependency Graph",
+        "subtext": "Visualize dependencies in systems or projects",
+        "onclick": "showModal('dependencyGraph')"
+    },
+    {
+        "title": "Cluster Computing",
+        "subtext": "Connecting multiple computers to work as a single system",
+        "onclick": "showModal('clusterComputing')"
+    },
+    {
+        "title": "Message Queues",
+        "subtext": "Manage asynchronous communication between processes",
+        "onclick": "showModal('messageQueues')"
+    },
+    {
+        "title": "Rate Limiting",
+        "subtext": "Control the frequency of resource access to prevent overuse",
+        "onclick": "showModal('rateLimiting')"
+    },
+    {
+        "title": "Concurrency",
+        "subtext": "Run multiple processes simultaneously for efficiency",
+        "onclick": "showModal('concurrency')"
+    },
+    {
+        "title": "Vertical Scaling",
+        "subtext": "Increase the capacity of a single server",
+        "onclick": "showModal('verticalScaling')"
+    },
+    {
+        "title": "Horizontal Scaling",
+        "subtext": "Add more machines to handle increased load",
+        "onclick": "showModal('horizontalScaling')"
+    },
+    {
+        "title": "Database Indexing",
+        "subtext": "Improve data retrieval speed in databases",
+        "onclick": "showModal('databaseIndexing')"
+    },
+    {
+        "title": "Data Replication",
+        "subtext": "Copy data to ensure consistency and accessibility",
+        "onclick": "showModal('dataReplication')"
+    },
+    {
+        "title": "ACID Transactions",
+        "subtext": "Ensure reliability in database operations",
+        "onclick": "showModal('acidTransactions')"
+    },
+    {
+        "title": "Eventually Consistent Systems",
+        "subtext": "Systems that eventually reach consistency over time",
+        "onclick": "showModal('eventuallyConsistentSystems')"
+    },
+    {
+        "title": "Memory Leaks",
+        "subtext": "Issues in memory management that can cause system crashes",
+        "onclick": "showModal('memoryLeaks')"
+    },
+    {
+        "title": "Namespace",
+        "subtext": "Organize code to avoid naming conflicts",
+        "onclick": "showModal('namespace')"
+    },
+    {
+        "title": "Service Discovery",
+        "subtext": "Dynamic directory for services to find each other",
+        "onclick": "showModal('serviceDiscovery')"
+    },
+    {
+        "title": "Throttling",
+        "subtext": "Control network traffic to prevent overloading",
+        "onclick": "showModal('throttling')"
+    },
+    {
+        "title": "Function as a Service (FaaS)",
+        "subtext": "Execute code without managing infrastructure",
+        "onclick": "showModal('functionAsAService')"
+    },
+    {
+        "title": "Data Lakehouse",
+        "subtext": "Combine data lakes and warehouses for comprehensive storage",
+        "onclick": "showModal('dataLakehouse')"
+    },
+    {
+        "title": "Event Loop",
+        "subtext": "Programming construct that waits for and dispatches events",
+        "onclick": "showModal('eventLoop')"
+    },
+    {
+        "title": "Tokenization",
+        "subtext": "Convert sensitive data into non-sensitive tokens",
+        "onclick": "showModal('tokenization')"
+    },
+    {
+        "title": "Server Sent Events (SSE)",
+        "subtext": "Automatically update web pages with server data",
+        "onclick": "showModal('serverSentEvents')"
+    },
+    {
+        "title": "Message Brokers",
+        "subtext": "Intermediaries that manage communication between apps",
+        "onclick": "showModal('messageBrokers')"
+    },
+    {
+        "title": "Cache Invalidation",
+        "subtext": "Remove outdated data to make room for fresh information",
+        "onclick": "showModal('cacheInvalidation')"
+    },
+    {
+        "title": "Immutable Data Structures",
+        "subtext": "Data structures that cannot be modified after creation",
+        "onclick": "showModal('immutableDataStructures')"
+    },
+    {
+        "title": "Data Deduplication",
+        "subtext": "Eliminate redundant data to increase storage efficiency",
+        "onclick": "showModal('dataDeduplication')"
+    },
+    {
+        "title": "Stateful vs Stateless Systems",
+        "subtext": "Compare systems that maintain state with those that don't",
+        "onclick": "showModal('statefulVsStatelessSystems')"
+    },
+    {
+        "title": "Zero Downtime Deployment",
+        "subtext": "Update software without causing service disruption",
+        "onclick": "showModal('zeroDowntimeDeployment')"
+    },
+    {
+        "title": "Data Partitioning",
+        "subtext": "Divide a database into distinct, independent parts",
+        "onclick": "showModal('dataPartitioning')"
+    },
+    {
+        "title": "Feature Branching",
+        "subtext": "Isolate development in branches for easier integration",
+        "onclick": "showModal('featureBranching')"
+    },
+    {
+        "title": "Deadlock",
+        "subtext": "A stand-off where processes block each other's progress",
+        "onclick": "showModal('deadlock')"
+    },
+    {
+        "title": "Micro-batching",
+        "subtext": "Process small groups of data in short intervals",
+        "onclick": "showModal('microBatching')"
+    },
+    {
+        "title": "Domain-Driven Design",
+        "subtext": "Software development approach focused on core business concepts",
+        "onclick": "showModal('domainDrivenDesign')"
+    },
+    {
+        "title": "API Versioning",
+        "subtext": "Manage API changes by assigning version numbers",
+        "onclick": "showModal('apiVersioning')"
+    },
+    {
+        "title": "Distributed File System (DFS)",
+        "subtext": "A network file system that spans multiple servers",
+        "onclick": "showModal('distributedFileSystem')"
+    },
+    {
+        "title": "Stateful Widget",
+        "subtext": "UI component that maintains state across sessions",
+        "onclick": "showModal('statefulWidget')"
+    },
+    {
+        "title": "Serverless Functions",
+        "subtext": "Execute code without the need to manage servers",
+        "onclick": "showModal('serverlessFunctions')"
+    },
+    {
+        "title": "Edge Services",
+        "subtext": "Technologies providing services closer to the user",
+        "onclick": "showModal('edgeServices')"
+    },
+    {
+        "title": "Dark Launch",
+        "subtext": "Release features to a subset of users without their knowledge",
+        "onclick": "showModal('darkLaunch')"
+    },
+    {
+        "title": "Cloud Security",
+        "subtext": "Procedures and technology to secure cloud environments",
+        "onclick": "showModal('cloudSecurity')"
+    },
+    {
+        "title": "Scalability",
+        "subtext": "Capability of a system to handle growth",
+        "onclick": "showModal('scalability')"
+    },
+    {
+        "title": "Event Stream Processing",
+        "subtext": "Analyze and process continuous streams of events",
+        "onclick": "showModal('eventStreamProcessing')"
+    },
+    {
+        "title": "Multi-Tenancy",
+        "subtext": "Single instance of software serves multiple customers",
+        "onclick": "showModal('multiTenancy')"
+    },
+    {
+        "title": "Software Containers",
+        "subtext": "Package an application and its dependencies into a unit",
+        "onclick": "showModal('softwareContainers')"
+    },
+    {
+        "title": "Cloud Orchestration",
+        "subtext": "Automated arrangement and coordination of cloud services",
+        "onclick": "showModal('cloudOrchestration')"
+    },
+    {
+        "title": "Network Slicing",
+        "subtext": "Create multiple virtual networks on shared infrastructure",
+        "onclick": "showModal('networkSlicing')"
+    },
+    {
+        "title": "IoT Edge Computing",
+        "subtext": "Process data near its source in IoT devices",
+        "onclick": "showModal('IoTEdgeComputing')"
+    },
+    {
+        "title": "Data Lakes and Warehouses Integration",
+        "subtext": "Combine raw and structured data storage for better management",
+        "onclick": "showModal('dataLakesAndWarehousesIntegration')"
+    },
+    {
+        "title": "Machine Learning Operations (MLOps)",
+        "subtext": "Streamline machine learning processes using DevOps principles",
+        "onclick": "showModal('machineLearningOperations')"
+    },
+    {
+        "title": "Natural Language Processing",
+        "subtext": "Enables computers to understand and process human language.",
+        "onclick": "showModal('naturalLanguageProcessing')"
+    },
+    {
+        "title": "Recurrent Neural Networks",
+        "subtext": "Processes sequences of data, maintaining context over time.",
+        "onclick": "showModal('recurrentNeuralNetworks')"
+    },
+    {
+        "title": "Convolutional Neural Networks",
+        "subtext": "Analyzes grid-like data, such as images, using filters.",
+        "onclick": "showModal('convolutionalNeuralNetworks')"
+    },
+    {
+        "title": "Autoencoders",
+        "subtext": "Learns efficient data representations through compression and reconstruction.",
+        "onclick": "showModal('autoencoders')"
+    },
+    {
+        "title": "Reinforcement Learning",
+        "subtext": "Trains agents to make decisions by rewarding or punishing actions.",
+        "onclick": "showModal('reinforcementLearning')"
+    },
+    {
+        "title": "Transfer Learning",
+        "subtext": "Adapts pre-trained models for new but related tasks.",
+        "onclick": "showModal('transferLearning')"
+    },
+    {
+        "title": "Hyperparameter Tuning",
+        "subtext": "Optimizes model settings to improve performance.",
+        "onclick": "showModal('hyperparameterTuning')"
+    },
+    {
+        "title": "Cross-Validation",
+        "subtext": "Evaluates model performance on multiple data splits.",
+        "onclick": "showModal('crossValidation')"
+    },
+    {
+        "title": "Feature Engineering",
+        "subtext": "Creates or modifies features to enhance model performance.",
+        "onclick": "showModal('featureEngineering')"
+    },
+    {
+        "title": "Feature Scaling",
+        "subtext": "Normalizes feature ranges for better model performance.",
+        "onclick": "showModal('featureScaling')"
+    },
+    {
+        "title": "Overfitting",
+        "subtext": "When a model learns too much from training data, harming new data performance.",
+        "onclick": "showModal('overfitting')"
+    },
+    {
+        "title": "Underfitting",
+        "subtext": "When a model is too simple to capture the underlying data patterns.",
+        "onclick": "showModal('underfitting')"
+    },
+    {
+        "title": "Regularization",
+        "subtext": "Prevents overfitting by adding penalties to model complexity.",
+        "onclick": "showModal('regularization')"
+    },
+    {
+        "title": "Bagging",
+        "subtext": "Combines predictions from multiple models for improved accuracy.",
+        "onclick": "showModal('bagging')"
+    },
+    {
+        "title": "Boosting",
+        "subtext": "Builds models sequentially, with each correcting errors of the previous one.",
+        "onclick": "showModal('boosting')"
+    },
+    {
+        "title": "Ensemble Methods",
+        "subtext": "Combines multiple models to improve overall performance.",
+        "onclick": "showModal('ensembleMethods')"
+    },
+    {
+        "title": "ROC Curve",
+        "subtext": "Graphical representation of a classifier's performance.",
+        "onclick": "showModal('rocCurve')"
+    },
+    {
+        "title": "AUC Curve",
+        "subtext": "i.e. Area Under the Curve",
+        "onclick": "showModal('aucCurve')"
+    },
+    {
+        "title": "Precision and Recall",
+        "subtext": "Metrics for evaluating classification model accuracy and completeness.",
+        "onclick": "showModal('precisionRecall')"
+    },
+    {
+        "title": "F1 Score",
+        "subtext": "Harmonic mean of Precision and Recall for balanced evaluation.",
+        "onclick": "showModal('f1Score')"
+    },
+    {
+        "title": "Confusion Matrix",
+        "subtext": "A table to evaluate classification model performance.",
+        "onclick": "showModal('confusionMatrix')"
+    },
+    {
+        "title": "Cross-Entropy",
+        "subtext": "Loss function measuring the difference between predicted and actual class labels.",
+        "onclick": "showModal('crossEntropy')"
+    },
+    {
+        "title": "NoSQL Databases",
+        "subtext": "Flexible, scalable data storage solutions",
+        "onclick": "showModal('noSQLDatabases')"
+    },
+    {
+        "title": "Microservices Architecture",
+        "subtext": "Independent, small service modules in software",
+        "onclick": "showModal('microservicesArchitecture')"
+    },
+    {
+        "title": "Serverless Architecture",
+        "subtext": "Cloud management of server operations",
+        "onclick": "showModal('serverlessArchitecture')"
+    },
+    {
+        "title": "WebAssembly (Wasm)",
+        "subtext": "High-performance web applications",
+        "onclick": "showModal('webAssembly')"
+    },
+    {
+        "title": "Edge Computing",
+        "subtext": "Data processing closer to data sources",
+        "onclick": "showModal('edgeComputing')"
+    },
+    {
+        "title": "Zero Trust Security Model",
+        "subtext": "Security that trusts no one by default",
+        "onclick": "showModal('zeroTrustSecurityModel')"
+    },
+    {
+        "title": "Docker Swarm",
+        "subtext": "Management of Docker container clusters",
+        "onclick": "showModal('dockerSwarm')"
+    },
+    {
+        "title": "OAuth 2.0",
+        "subtext": "Authorization framework for resource access",
+        "onclick": "showModal('oAuth2_0')"
+    },
+    {
+        "title": "JWT (JSON Web Tokens)",
+        "subtext": "Securely transmit information as JSON",
+        "onclick": "showModal('jwt')"
+    },
+    {
+        "title": "Event-Driven Architecture",
+        "subtext": "Building software with actions triggering responses",
+        "onclick": "showModal('eventDrivenArchitecture')"
+    },
+    {
+        "title": "CQRS (Command Query Responsibility Segregation)",
+        "subtext": "Separating read and write operations for efficiency",
+        "onclick": "showModal('cqrs')"
+    },
+    {
+        "title": "DevSecOps",
+        "subtext": "Integrating security into the DevOps process",
+        "onclick": "showModal('devSecOps')"
+    },
+    {
+        "title": "Data Lake",
+        "subtext": "Vast storage for raw data in its native format",
+        "onclick": "showModal('dataLake')"
+    },
+    {
+        "title": "ETL (Extract, Transform, Load)",
+        "subtext": "Process to collect, change, and store data",
+        "onclick": "showModal('etl')"
+    },
+    {
+        "title": "Monolith",
+        "subtext": "A single, large application handling multiple tasks",
+        "onclick": "showModal('monolith')"
+    },
+    {
+        "title": "Data Warehouse",
+        "subtext": "System for storing and managing large data for analysis",
+        "onclick": "showModal('dataWarehouse')"
+    },
+    {
+        "title": "Graph Databases",
+        "subtext": "Databases storing data in nodes and edges to show relationships",
+        "onclick": "showModal('graphDatabases')"
+    },
+    {
+        "title": "APM (Application Performance Management)",
+        "subtext": "Monitors and manages software application performance",
+        "onclick": "showModal('apm')"
+    },
+    {
+        "title": "Infrastructure as Code (IaC)",
+        "subtext": "Managing infrastructure through machine-readable scripts",
+        "onclick": "showModal('infrastructureAsCode')"
+    },
+    {
+        "title": "Immutable Infrastructure",
+        "subtext": "Infrastructure that is never modified after deployment",
+        "onclick": "showModal('immutableInfrastructure')"
+    },
+    {
+        "title": "Distributed Ledger Technology",
+        "subtext": "Digital system recording transactions in multiple places simultaneously",
+        "onclick": "showModal('distributedLedgerTechnology')"
+    },
+    {
+        "title": "Chaos Engineering",
+        "subtext": "Practice of testing systems to withstand turbulent conditions",
+        "onclick": "showModal('chaosEngineering')"
+    },
+    {
+        "title": "Reactive Programming",
+        "subtext": "Handling data streams and changes in real time",
+        "onclick": "showModal('reactiveProgramming')"
+    },
+    {
+        "title": "Data Sharding",
+        "subtext": "Splitting a database into smaller, faster parts",
+        "onclick": "showModal('dataSharding')"
+    },
+    {
+        "title": "API Gateway",
+        "subtext": "Manages requests and directs them to the correct services",
+        "onclick": "showModal('apiGateway')"
+    },
+    {
+        "title": "WebRTC (Web Real-Time Communication)",
+        "subtext": "Enabling real-time communication directly in web browsers",
+        "onclick": "showModal('webRTC')"
+    },
+    {
+        "title": "Data Governance",
+        "subtext": "Management of data's availability, usability, integrity, and security",
+        "onclick": "showModal('dataGovernance')"
+    },
+    {
+        "title": "Data Anonymization",
+        "subtext": "Removing personal identifiers from data to protect privacy",
+        "onclick": "showModal('dataAnonymization')"
+    },
+    {
+        "title": "Federated Learning",
+        "subtext": "Training AI models across multiple devices without sharing data",
+        "onclick": "showModal('federatedLearning')"
+    },
+    {
+        "title": "Explainable AI (XAI)",
+        "subtext": "Making AI decisions understandable to humans",
+        "onclick": "showModal('explainableAI')"
+    },
+    {
+        "title": "Synthetic Data",
+        "subtext": "Artificially generated data that mimics real data",
+        "onclick": "showModal('syntheticData')"
+    },
+    {
+        "title": "Quantum Cryptography",
+        "subtext": "Using principles of quantum mechanics for secure communication",
+        "onclick": "showModal('quantumCryptography')"
+    },
+    {
+        "title": "Digital Twins",
+        "subtext": "Virtual replicas of physical objects or systems",
+        "onclick": "showModal('digitalTwins')"
+    },
+    {
+        "title": "Edge AI",
+        "subtext": "Bringing artificial intelligence to edge devices to process data locally",
+        "onclick": "showModal('edgeAI')"
+    },
+    {
+        "title": "Homomorphic Encryption",
+        "subtext": "Performing computations on encrypted data without decryption",
+        "onclick": "showModal('homomorphicEncryption')"
+    },
+    {
+        "title": "Fog Computing",
+        "subtext": "Extending cloud computing to the edge of an enterprise's network",
+        "onclick": "showModal('fogComputing')"
+    },
+    {
+        "title": "Virtual Private Cloud (VPC)",
+        "subtext": "Isolated cloud resources for enhanced security within a public cloud",
+        "onclick": "showModal('virtualPrivateCloud')"
+    },
+    {
+        "title": "Hybrid Cloud",
+        "subtext": "Combining public and private cloud environments for flexibility",
+        "onclick": "showModal('hybridCloud')"
+    },
+    {
+        "title": "Multi-Cloud Strategy",
+        "subtext": "Using multiple cloud computing services to mitigate single-provider risks",
+        "onclick": "showModal('multiCloudStrategy')"
+    },
+    {
+        "title": "DataOps",
+        "subtext": "An agile methodology for developing and maintaining data analytics",
+        "onclick": "showModal('dataOps')"
+    },
+    {
+        "title": "Bioinformatics",
+        "subtext": "Using technology to understand biological data",
+        "onclick": "showModal('bioinformatics')"
+    }
+]

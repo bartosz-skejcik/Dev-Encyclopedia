@@ -6,7 +6,7 @@ img {
 body {
     background-color: #fcfcfc;
     color: #000000;
-    font-family: 'JetBrains Mono', monospace;
+    font-family: "JetBrains Mono", monospace;
     margin: 0;
     padding: 0;
 }
@@ -18,40 +18,38 @@ body {
     border: 1px solid #000000; /* Optional: Add border to make it stand out */
     border-radius: 15px; /* Optional: Add rounded corners */
     background-color: #ffffff; /* Optional: Add background color */
-  }
-  
-  #sponsor-image {
+}
+
+#sponsor-image {
     width: 50px; /* Adjust size as needed */
     height: 50px; /* Adjust size as needed */
     border-radius: 50%;
     object-fit: cover;
     margin-right: 15px;
-  }
-  
-  #sponsor-name {
-    font-size: 15px; 
+}
+
+#sponsor-name {
+    font-size: 15px;
     font-weight: bold;
-    color: #0073b1; 
+    color: #0073b1;
     text-decoration: none;
-  }
-  
-  #sponsor-name:hover {
-    text-decoration: underline; 
-  }
-  
-  @media (max-width: 600px) {
+}
+
+#sponsor-name:hover {
+    text-decoration: underline;
+}
+
+@media (max-width: 600px) {
     #sponsor-info {
-      flex-direction: column;
-      align-items: center;
+        flex-direction: column;
+        align-items: center;
     }
-  
+
     #sponsor-image {
-      margin-right: 0;
-      margin-bottom: 10px;
+        margin-right: 0;
+        margin-bottom: 10px;
     }
-  }
-  
-  
+}
 
 .hero-section {
     text-align: center;
@@ -72,7 +70,6 @@ body {
     display: flex;
     justify-content: center;
     gap: 10px;
-
 }
 
 .button {
@@ -82,7 +79,7 @@ body {
     color: #000000;
     padding: 15px 30px;
 
-    font-family: 'JetBrains Mono', monospace;
+    font-family: "JetBrains Mono", monospace;
     cursor: pointer;
     text-align: center;
     border-radius: 5px;
@@ -98,7 +95,7 @@ body {
 .search-bar {
     position: relative;
     display: inline-block;
-    font-family: 'JetBrains Mono', monospace;
+    font-family: "JetBrains Mono", monospace;
 }
 
 .search-bar input {
@@ -108,7 +105,7 @@ body {
     font-size: 1em;
     border: 1px solid #000000;
     border-radius: 35px;
-    font-family: 'JetBrains Mono', monospace;
+    font-family: "JetBrains Mono", monospace;
 }
 
 .search-bar i {
@@ -135,7 +132,6 @@ body {
 }
 
 @media screen and (max-width: 600px) {
-
     .buttons {
         flex-wrap: wrap;
     }
@@ -143,11 +139,9 @@ body {
     .button {
         flex: 1;
     }
-
 }
 
 @media screen and (max-width: 600px) {
-
     .buttons {
         flex-wrap: wrap;
     }
@@ -155,7 +149,6 @@ body {
     .button {
         flex: 1;
     }
-
 }
 
 .card {
@@ -165,7 +158,7 @@ body {
     border-radius: 10px;
     padding: 20px;
     text-align: center;
-    display:flex;
+    display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: space-between;
@@ -189,7 +182,7 @@ body {
     border: 2px;
     border-color: black;
     border-radius: 5px;
-    font-family: 'JetBrains Mono', monospace;
+    font-family: "JetBrains Mono", monospace;
     cursor: pointer;
     width: 80%;
 }
@@ -221,7 +214,7 @@ body {
     border-radius: 10px;
     width: 80%;
     max-width: 600px;
-    font-family: 'JetBrains Mono', monospace;
+    font-family: "JetBrains Mono", monospace;
     overflow-y: auto;
     max-height: 70vh;
 }
@@ -240,9 +233,8 @@ body {
 }
 
 .modal-paragraph {
-   text-align: left;
-   line-height: 1.5;
-
+    text-align: left;
+    line-height: 1.5;
 }
 
 #modal-link {
@@ -254,11 +246,10 @@ body {
     border-radius: 5px;
     font-size: 15px;
     text-align: center;
-    font-family: 'JetBrains Mono', monospace;
+    font-family: "JetBrains Mono", monospace;
     cursor: pointer;
 }
 
 #modal-link:hover {
     color: deeppink;
 }
-

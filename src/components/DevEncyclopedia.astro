@@ -1,0 +1,24 @@
+---
+import HeroSection from './Hero.astro';
+import Card, { type CardProps } from './Card.astro';
+import data from '../../public/data.json';
+
+let cards: CardProps[] = data;
+---
+
+<HeroSection />
+
+<div class="card-container" id="cardContainer">
+  {cards.map(card => (
+    <Card title={card.title} subtext={card.subtext} click={card.onclick} />
+  ))}
+</div>
+
+<!-- Modal Structure -->
+<div id="modal">
+  <div id="modal-content">
+    <div id="modal-body"></div>
+  </div>
+</div>
+
+<script is:inline src="/script.js"></script>

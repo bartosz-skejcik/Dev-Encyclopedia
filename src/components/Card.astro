@@ -1,0 +1,15 @@
+---
+export interface CardProps {
+  title: string;
+  subtext: string;
+  onclick: string;
+}
+
+const { title, subtext, click } = Astro.props;
+---
+
+<div class="card">
+  <div class="card-title">{title}</div>
+  <div class="card-subtext">{subtext}</div>
+  <button class="explain-button" onclick={`${click}`}>Explain</button>
+</div>
