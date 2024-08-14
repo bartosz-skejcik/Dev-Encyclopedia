@@ -74,8 +74,7 @@ body {
 
 .button {
     background-color: #ffffff;
-    border-width: 2px;
-    border-color: black;
+    border: 2px solid black;
     color: #000000;
     padding: 15px 30px;
 
